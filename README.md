@@ -1,3 +1,3 @@
-# FenyeslitkeRailwayStation3D
+# 3D model of the Fényeslitke railway station.
 
-AUTODESK Tinkercad: https://www.tinkercad.com
+Autodesk Tinkercad: https://www.tinkercad.com
